@@ -1,0 +1,15 @@
+D:\source\WPF공부\과제\StopWatch\bin\Debug\StopWatch.exe.config
+D:\source\WPF공부\과제\StopWatch\bin\Debug\StopWatch.exe
+D:\source\WPF공부\과제\StopWatch\bin\Debug\StopWatch.pdb
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+D:\source\WPF공부\과제\StopWatch\obj\Debug\MainWindow.g.cs
+D:\source\WPF공부\과제\StopWatch\obj\Debug\App.g.cs
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch_MarkupCompile.lref
+D:\source\WPF공부\과제\StopWatch\obj\Debug\MainWindow.baml
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.g.resources
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.exe
+D:\source\WPF공부\과제\StopWatch\obj\Debug\StopWatch.pdb
